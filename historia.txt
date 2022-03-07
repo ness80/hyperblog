@@ -4,3 +4,5 @@ hay que llenar mas lineas para poder estar completo
 
 
 despues del --hard volvemos a agregar contenido
+
+pruebas para entender mas git 8
